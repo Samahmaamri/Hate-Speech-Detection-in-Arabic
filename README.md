@@ -5,7 +5,7 @@ Hate Speech Detection in Arabic Using NLP
   
 <p align="left" >
   <h2>  Overview:  <img align="right" alt="Coding" width="300" src="word_hateful.png"  >  </h2>
-This project focuses on detecting hate speech in Arabic text using Natural Language Processing (NLP) techniques. The objective is to classify Arabic tweets or texts into hate speech or non-hate speech categories. Given the challenges of processing Arabic text due to its unique morphology and grammar, this project employs preprocessing techniques and machine learning models.
+This project focuses on detecting hate speech in Arabic text using Natural Language Processing (NLP) techniques. The objective is to classify Arabic tweets or texts into hate speech or non-hate speech categories. Given the challenges of processing Arabic text due to its unique morphology and grammar, this project employs preprocessing techniques and machine learning model.
 </p>
 
 </div>
